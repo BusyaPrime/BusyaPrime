@@ -1,13 +1,12 @@
-<!-- TOP HERO: YOUR ANIMATION -->
+<!-- HERO: YOUR GIF (use the permanent user-attachments link) -->
 <p align="center">
-  <img src="assets/video.gif" width="900" alt="AKMAL pixel dev room" />
+  <img src="https://github.com/user-attachments/assets/acd8c427-8cb2-4e65-ad66-bf889f7fda9f" width="900" alt="AKMAL animation" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=АКМАЛ&fontAlign=50&fontAlignY=40&desc=Java%20%26%20Python%20Разработчик%20•%20НИУ%20ИТМО&descAlign=50&descAlignY=73&animation=twinkling&color=gradient" />
 </p>
 
-<!-- CONTACT BUTTONS -->
 <p align="center">
   <a href="https://t.me/busyaPrime">
     <img src="https://img.shields.io/badge/Telegram-@busyaPrime-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -35,23 +34,25 @@
 
 ## 💼 Опыт работы
 <p align="center">
-  <img src="https://img.shields.io/badge/Компания-Skyweb.pro-6A5ACD?style=for-the-badge" />
+  <a href="https://skyweb.pro/">
+    <img src="https://img.shields.io/badge/Компания-Skyweb.pro-6A5ACD?style=for-the-badge" />
+  </a>
   <img src="https://img.shields.io/badge/Позиция-Backend%20%2B%20частично%20Frontend-0EA5E9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Срок-1%20год%203%20месяца-22C55E?style=for-the-badge" />
 </p>
 
-**Skyweb.pro** — *Backend (частично Frontend) разработчик*  
+**[Skyweb.pro](https://skyweb.pro/)** — *Backend (частично Frontend) разработчик*  
 ⏳ **1 год 3 месяца**
 
 - 🧩 Разработка и поддержка **backend-сервисов** и **REST API**
-- 🗄️ Работа с базами данных, интеграции, оптимизация запросов и бизнес-логика
-- 🐳 Работа с окружениями и контейнеризацией (**Docker**) при необходимости
-- 🌐 Участие во **frontend-задачах**: правки интерфейса, интеграция API, устранение багов
-- ✅ Фокус на качестве: читаемость кода, рефакторинг, стабилизация и поддержка
+- 🗄️ Интеграции, бизнес-логика, работа с БД и оптимизация запросов
+- 🐳 Окружения и контейнеризация (**Docker**) при необходимости
+- 🌐 Частично **frontend-задачи**: правки интерфейса, интеграция API, фиксы багов
+- ✅ Рефакторинг, стабилизация и поддержка качества кода
 
 ---
 
-## 🧠 Технологии
+## 🧠 Технологии (9)
 <p align="center">
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -108,4 +109,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BusyaPrime&theme=tokyo-night&hide_border=true" />
 </p>
-![Giftgithun](https://github.com/user-attachments/assets/acd8c427-8cb2-4e65-ad66-bf889f7fda9f)
