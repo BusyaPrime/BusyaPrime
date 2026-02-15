@@ -1,12 +1,12 @@
-<!-- HERO: YOUR GIF (use the permanent user-attachments link) -->
+<!-- HERO: YOUR GIF -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/acd8c427-8cb2-4e65-ad66-bf889f7fda9f" width="900" alt="AKMAL animation" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=АКМАЛ&fontAlign=50&fontAlignY=40&desc=Java%20%26%20Python%20Разработчик%20•%20НИУ%20ИТМО&descAlign=50&descAlignY=73&animation=twinkling&color=gradient" />
-</p>
+<h1 align="center">АКМАЛ</h1>
+<p align="center"><b>Java & Python разработчик • НИУ ИТМО</b></p>
 
+<!-- CONTACT BUTTONS -->
 <p align="center">
   <a href="https://t.me/busyaPrime">
     <img src="https://img.shields.io/badge/Telegram-@busyaPrime-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -27,8 +27,9 @@
 
 ## 👤 Обо мне
 - 👨‍💻 **Разработчик на Java и Python**
-- 🎓 **Национальный исследовательский университет ИТМО** *(2025 — настоящее время)*
-- 🚀 Делаю backend-сервисы, API, автоматизацию и люблю “доводить до релиза”
+- 🎓 Учусь в **НИУ ИТМО** *(2025 — настоящее время)*  
+- 🚀 Люблю писать понятный код, автоматизировать рутину
+- 🧠 Интересы: backend, API, архитектура, DevOps-инструменты, качество кода
 
 ---
 
@@ -52,7 +53,7 @@
 
 ---
 
-## 🧠 Технологии (9)
+## 🧠 Технологии
 <p align="center">
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
