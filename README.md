@@ -1,19 +1,26 @@
-<!-- HERO GIF (put your animation first) -->
+<!-- TOP HERO: YOUR ANIMATION -->
 <p align="center">
   <img src="assets/video.gif" width="900" alt="AKMAL pixel dev room" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=AKMAL&fontAlign=50&fontAlignY=40&desc=Java%20%26%20Python%20Developer%20•%20ITMO%20Student&descAlign=50&descAlignY=70&animation=twinkling&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=АКМАЛ&fontAlign=50&fontAlignY=40&desc=Java%20%26%20Python%20Разработчик%20•%20НИУ%20ИТМО&descAlign=50&descAlignY=73&animation=twinkling&color=gradient" />
 </p>
 
+<!-- CONTACT BUTTONS -->
 <p align="center">
   <a href="https://t.me/busyaPrime">
     <img src="https://img.shields.io/badge/Telegram-@busyaPrime-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hujdarovakmal@gmail.com&su=Привет,%20Акмал!&body=Привет,%20Акмал,%0A">
-    <img src="https://img.shields.io/badge/Gmail-hujdarovakmal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Написать%20письмо-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/BusyaPrime?tab=repositories">
+    <img src="https://img.shields.io/badge/Проекты-Репозитории-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=BusyaPrime&style=for-the-badge" />
 </p>
 
@@ -21,41 +28,67 @@
 
 ## 👤 Обо мне
 - 👨‍💻 **Разработчик на Java и Python**
-- 🎓 Учусь в **НИУ ИТМО** *(2025 — настоящее время)*
-- 🚀 Пишу понятный код, делаю backend-сервисы, автоматизирую рутину и люблю доводить проекты до релиза
+- 🎓 **Национальный исследовательский университет ИТМО** *(2025 — настоящее время)*
+- 🚀 Делаю backend-сервисы, API, автоматизацию и люблю “доводить до релиза”
 
 ---
 
-## 🧰 Технологии
-<p>
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+## 💼 Опыт работы
+<p align="center">
+  <img src="https://img.shields.io/badge/Компания-Skyweb.pro-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Позиция-Backend%20%2B%20частично%20Frontend-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Срок-1%20год%203%20месяца-22C55E?style=for-the-badge" />
+</p>
+
+**Skyweb.pro** — *Backend (частично Frontend) разработчик*  
+⏳ **1 год 3 месяца**
+
+- 🧩 Разработка и поддержка **backend-сервисов** и **REST API**
+- 🗄️ Работа с базами данных, интеграции, оптимизация запросов и бизнес-логика
+- 🐳 Работа с окружениями и контейнеризацией (**Docker**) при необходимости
+- 🌐 Участие во **frontend-задачах**: правки интерфейса, интеграция API, устранение багов
+- ✅ Фокус на качестве: читаемость кода, рефакторинг, стабилизация и поддержка
+
+---
+
+## 🧠 Технологии
+<p align="center">
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🛠 Инструменты
-<p>
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-  <img height="34" src="https://cdn.simpleicons.org/davinciresolve/0F0F0F" />
-  <img height="34" src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" />
-  <img height="34" src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" />
+<p align="center">
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
+  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
+  <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+</p>
+
+### 🎬 Креативные инструменты
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" height="48" alt="DaVinci Resolve Studio" />
+  <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 📚 Образование и курсы
-**🎓 Национальный исследовательский университет ИТМО** — *2025 — настоящее время*
+**🎓 НИУ ИТМО** — *2025 — настоящее время*
 
 | Курс | Платформа | Год |
 |------|-----------|-----|
@@ -66,6 +99,13 @@
 
 ---
 
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusyaPrime&layout=compact&theme=tokyonight&hide_border=true" />
+## 📊 GitHub статистика
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BusyaPrime&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusyaPrime&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BusyaPrime&theme=tokyo-night&hide_border=true" />
+</p>
+![Giftgithun](https://github.com/user-attachments/assets/acd8c427-8cb2-4e65-ad66-bf889f7fda9f)
