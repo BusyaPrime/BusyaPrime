@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/acd8c427-8cb2-4e65-ad66-bf889f7fda9f" width="900" alt="AKMAL animation" />
 </p>
 
-<h1 align="center">АКМАЛ</h1>
+
 <p align="center"><b>Java & Python разработчик • НИУ ИТМО</b></p>
 
 <!-- CONTACT BUTTONS -->
