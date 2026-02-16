@@ -32,27 +32,6 @@
 
 ---
 
-## 🧾 Сертификаты
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/d035173f-c8f6-4a60-a998-5e62dd515350">
-    <img src="https://img.shields.io/badge/21%20School%20(Сбер)-Нажать%20сюда-111111?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/user-attachments/assets/d69018cf-eabe-4845-908e-420a71cd84a9">
-    <img src="https://img.shields.io/badge/Skillbox-Нажать%20сюда-6A5ACD?style=for-the-badge" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/d035173f-c8f6-4a60-a998-5e62dd515350">
-    <img src="https://github.com/user-attachments/assets/d035173f-c8f6-4a60-a998-5e62dd515350" width="420" alt="21 School certificate" />
-  </a>
-  <a href="https://github.com/user-attachments/assets/d69018cf-eabe-4845-908e-420a71cd84a9">
-    <img src="https://github.com/user-attachments/assets/d69018cf-eabe-4845-908e-420a71cd84a9" width="420" alt="Skillbox certificate" />
-  </a>
-</p>
-
----
-
 ## 💼 Опыт работы
 <p align="center">
   <a href="https://skyweb.pro/">
@@ -114,11 +93,54 @@
 
 | Курс | Платформа | Год |
 |------|-----------|-----|
-| 21 School (Сбер) | 21 School | 2022 |
-| Java-разработчик | Skillbox | 2022 |
-| Python-разработчик | Skillbox | 2022 |
+| Java-разработчик | SkillFactory | 2022 |
+| Python-разработчик | SkillFactory | 2022 |
 | Frontend | Яндекс Практикум | 2023–2024 |
 | Backend | Яндекс Практикум | 2023–2024 |
+| Oracle University | Oracle University | 2025 |
+
+---
+
+## 🧾 Сертификаты
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/571c3179-1735-4c7f-96f9-37bbdb81d341">
+    <img src="https://img.shields.io/badge/Python%20(SkillFactory)-Открыть%20сертификат-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/3c352730-cfa4-465b-beeb-9aeb595250e9">
+    <img src="https://img.shields.io/badge/Java%20(SkillFactory)-Открыть%20сертификат-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/cd224d79-88a2-4795-b8a8-d501f058e4ad">
+    <img src="https://img.shields.io/badge/Oracle%20University-Открыть%20сертификат-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #2f81f7; border-radius: 16px; padding: 10px;">
+      <a href="https://github.com/user-attachments/assets/571c3179-1735-4c7f-96f9-37bbdb81d341">
+        <img src="https://github.com/user-attachments/assets/571c3179-1735-4c7f-96f9-37bbdb81d341" width="320" alt="Python certificate" />
+      </a>
+      <br/>
+      <b>Python — SkillFactory (2022)</b>
+    </td>
+    <td width="18"></td>
+    <td align="center" style="border: 2px solid #2f81f7; border-radius: 16px; padding: 10px;">
+      <a href="https://github.com/user-attachments/assets/3c352730-cfa4-465b-beeb-9aeb595250e9">
+        <img src="https://github.com/user-attachments/assets/3c352730-cfa4-465b-beeb-9aeb595250e9" width="320" alt="Java certificate" />
+      </a>
+      <br/>
+      <b>Java — SkillFactory (2022)</b>
+    </td>
+    <td width="18"></td>
+    <td align="center" style="border: 2px solid #2f81f7; border-radius: 16px; padding: 10px;">
+      <a href="https://github.com/user-attachments/assets/cd224d79-88a2-4795-b8a8-d501f058e4ad">
+        <img src="https://github.com/user-attachments/assets/cd224d79-88a2-4795-b8a8-d501f058e4ad" width="320" alt="Oracle certificate" />
+      </a>
+      <br/>
+      <b>Oracle University (2025)</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -131,3 +153,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BusyaPrime&theme=tokyo-night&hide_border=true" />
 </p>
+
