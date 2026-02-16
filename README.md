@@ -53,7 +53,7 @@
 
 ---
 
-## 🧠 Технологии (9)
+## 🧠 Технологии
 <p align="center">
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
