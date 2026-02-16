@@ -3,6 +3,7 @@
   <img src="https://github.com/user-attachments/assets/acd8c427-8cb2-4e65-ad66-bf889f7fda9f" width="900" alt="AKMAL animation" />
 </p>
 
+<h1 align="center">АКМАЛ</h1>
 <p align="center"><b>Java & Python разработчик • НИУ ИТМО</b></p>
 
 <!-- CONTACT BUTTONS -->
@@ -26,9 +27,29 @@
 
 ## 👤 Обо мне
 - 👨‍💻 **Разработчик на Java и Python**
-- 🎓 Учусь в **НИУ ИТМО** *(2025 — настоящее время)*  
-- 🚀 Люблю писать понятный код, автоматизировать рутину
-- 🧠 Интересы: backend, API, архитектура, DevOps-инструменты, качество кода
+- 🎓 **Национальный исследовательский университет ИТМО** *(2025 — настоящее время)*
+- 🚀 Делаю backend-сервисы, API, автоматизацию и люблю “доводить до релиза”
+
+---
+
+## 🧾 Сертификаты
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/d035173f-c8f6-4a60-a998-5e62dd515350">
+    <img src="https://img.shields.io/badge/21%20School%20(Сбер)-Нажать%20сюда-111111?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/d69018cf-eabe-4845-908e-420a71cd84a9">
+    <img src="https://img.shields.io/badge/Skillbox-Нажать%20сюда-6A5ACD?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/d035173f-c8f6-4a60-a998-5e62dd515350">
+    <img src="https://github.com/user-attachments/assets/d035173f-c8f6-4a60-a998-5e62dd515350" width="420" alt="21 School certificate" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/d69018cf-eabe-4845-908e-420a71cd84a9">
+    <img src="https://github.com/user-attachments/assets/d69018cf-eabe-4845-908e-420a71cd84a9" width="420" alt="Skillbox certificate" />
+  </a>
+</p>
 
 ---
 
@@ -52,7 +73,7 @@
 
 ---
 
-## 🧠 Технологии
+## 🧠 Технологии (9)
 <p align="center">
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -93,8 +114,9 @@
 
 | Курс | Платформа | Год |
 |------|-----------|-----|
-| Java-разработчик | Skillbox | 2023 |
-| Python-разработчик | Skillbox | 2023 |
+| 21 School (Сбер) | 21 School | 2022 |
+| Java-разработчик | Skillbox | 2022 |
+| Python-разработчик | Skillbox | 2022 |
 | Frontend | Яндекс Практикум | 2023–2024 |
 | Backend | Яндекс Практикум | 2023–2024 |
 
