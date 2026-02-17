@@ -120,7 +120,7 @@
   </a>
 </p>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0">
@@ -129,7 +129,6 @@
       <br><br>
       <b>Python — SkillFactory (2022)</b>
     </td>
-
     <td align="center" width="33%">
       <a href="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309">
         <img src="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309" width="260" alt="Java certificate" />
@@ -137,7 +136,6 @@
       <br><br>
       <b>Java — SkillFactory (2022)</b>
     </td>
-
     <td align="center" width="33%">
       <a href="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df">
         <img src="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df" width="260" alt="Oracle certificate" />
@@ -147,6 +145,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
