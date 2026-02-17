@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/acd8c427-8cb2-4e65-ad66-bf889f7fda9f" width="900" alt="AKMAL animation" />
 </p>
 
-
+<h1 align="center">АКМАЛ</h1>
 <p align="center"><b>Java & Python разработчик • НИУ ИТМО</b></p>
 
 <!-- CONTACT BUTTONS -->
@@ -52,7 +52,7 @@
 
 ---
 
-## 🧠 Технологии (9)
+## 🧠 Технологии
 <p align="center">
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -63,6 +63,9 @@
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
   <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+  <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111"/></a>
 </p>
 
 ---
@@ -77,6 +80,9 @@
   <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
   <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
+  <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/></a>
+  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/></a>
 </p>
 
 ### 🎬 Креативные инструменты
@@ -102,31 +108,34 @@
 ---
 
 ## 🧾 Сертификаты
-
 <table align="center">
   <tr>
-    <td align="center" style="border: 2px solid #2f81f7; border-radius: 16px; padding: 10px;">
+    <td align="center" style="border: 2px solid #2f81f7; border-radius: 16px; padding: 14px; width: 33%;">
       <a href="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0">
         <img src="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0" width="320" alt="Python certificate" />
       </a>
-      <br/>
-      <b>Python — SkillFactory (2022)</b>
+      <br/><br/>
+      <a href="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0"><b>Открыть фото</b></a>
     </td>
+
     <td width="18"></td>
-    <td align="center" style="border: 2px solid #2f81f7; border-radius: 16px; padding: 10px;">
+
+    <td align="center" style="border: 2px solid #2f81f7; border-radius: 16px; padding: 14px; width: 33%;">
       <a href="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309">
         <img src="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309" width="320" alt="Java certificate" />
       </a>
-      <br/>
-      <b>Java — SkillFactory (2022)</b>
+      <br/><br/>
+      <a href="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309"><b>Открыть фото</b></a>
     </td>
+
     <td width="18"></td>
-    <td align="center" style="border: 2px solid #2f81f7; border-radius: 16px; padding: 10px;">
+
+    <td align="center" style="border: 2px solid #2f81f7; border-radius: 16px; padding: 14px; width: 33%;">
       <a href="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df">
         <img src="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df" width="320" alt="Oracle certificate" />
       </a>
-      <br/>
-      <b>Oracle University (2025)</b>
+      <br/><br/>
+      <a href="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df"><b>Открыть фото</b></a>
     </td>
   </tr>
 </table>
@@ -142,3 +151,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BusyaPrime&theme=tokyo-night&hide_border=true" />
 </p>
+
