@@ -108,37 +108,29 @@
 ---
 
 ## 🧾 Сертификаты
-<table align="center">
-  <tr>
-    <td align="center" style="border: 2px solid #2f81f7; border-radius: 16px; padding: 14px; width: 33%;">
-      <a href="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0">
-        <img src="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0" width="320" alt="Python certificate" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0"><b>Открыть фото</b></a>
-    </td>
 
-    <td width="18"></td>
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0"><b>🐍 Python сертификат — открыть фото</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309"><b>☕ Java сертификат — открыть фото</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df"><b>🟥 Oracle сертификат — открыть фото</b></a>
+</p>
 
-    <td align="center" style="border: 2px solid #2f81f7; border-radius: 16px; padding: 14px; width: 33%;">
-      <a href="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309">
-        <img src="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309" width="320" alt="Java certificate" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309"><b>Открыть фото</b></a>
-    </td>
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0">
+    <img src="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0" width="290" alt="Python certificate"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309">
+    <img src="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309" width="290" alt="Java certificate"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df">
+    <img src="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df" width="290" alt="Oracle certificate"/>
+  </a>
+</p>
 
-    <td width="18"></td>
-
-    <td align="center" style="border: 2px solid #2f81f7; border-radius: 16px; padding: 14px; width: 33%;">
-      <a href="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df">
-        <img src="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df" width="320" alt="Oracle certificate" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df"><b>Открыть фото</b></a>
-    </td>
-  </tr>
-</table>
 
 ---
 
