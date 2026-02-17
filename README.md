@@ -106,30 +106,48 @@
 | Oracle University | Oracle University | 2025 |
 
 ---
-
 ## 🧾 Сертификаты
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0"><b>🐍 Python сертификат — открыть фото</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309"><b>☕ Java сертификат — открыть фото</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df"><b>🟥 Oracle сертификат — открыть фото</b></a>
+  <a href="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0">
+    <img src="https://img.shields.io/badge/PYTHON%20(SkillFactory)-Открыть%20сертификат-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309">
+    <img src="https://img.shields.io/badge/JAVA%20(SkillFactory)-Открыть%20сертификат-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df">
+    <img src="https://img.shields.io/badge/ORACLE%20University-Открыть%20сертификат-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0">
-    <img src="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0" width="290" alt="Python certificate"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309">
-    <img src="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309" width="290" alt="Java certificate"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df">
-    <img src="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df" width="290" alt="Oracle certificate"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0">
+        <img src="https://github.com/user-attachments/assets/d4026bc8-5c53-4d5b-b6cd-b5941f854db0" width="260" alt="Python certificate" />
+      </a>
+      <br><br>
+      <b>Python — SkillFactory (2022)</b>
+    </td>
+
+    <td align="center" width="33%">
+      <a href="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309">
+        <img src="https://github.com/user-attachments/assets/4f83746c-30f5-4c71-9042-4af5062d6309" width="260" alt="Java certificate" />
+      </a>
+      <br><br>
+      <b>Java — SkillFactory (2022)</b>
+    </td>
+
+    <td align="center" width="33%">
+      <a href="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df">
+        <img src="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df" width="260" alt="Oracle certificate" />
+      </a>
+      <br><br>
+      <b>Oracle University (2025)</b>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
