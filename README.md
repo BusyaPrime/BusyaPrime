@@ -121,6 +121,7 @@
 | Frontend | Яндекс Практикум | 2023–2024 |
 | Backend | Яндекс Практикум | 2023–2024 |
 | Oracle University | Oracle University | 2025 |
+| GRE ETS | ETS | 2025 |
 
 ---
 
