@@ -136,6 +136,9 @@
   <a href="https://github.com/user-attachments/assets/369e3e9d-c878-4220-b836-c0fa0d3199df">
     <img src="https://img.shields.io/badge/ORACLE%20University-Открыть%20сертификат-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   </a>
+  <a href="https://github.com/user-attachments/assets/6f9fe609-ee3d-4971-a033-c5f89789ed6a">
+    <img src="https://img.shields.io/badge/GRE%20ETS-Открыть%20сертификат-0B1F3B?style=for-the-badge&logo=academia&logoColor=white" />
+  </a>
 </p>
 
 <table align="center" border="0">
@@ -160,6 +163,16 @@
       </a>
       <br><br>
       <b>Oracle University (2025)</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center">
+      <a href="https://github.com/user-attachments/assets/6f9fe609-ee3d-4971-a033-c5f89789ed6a">
+        <img src="https://github.com/user-attachments/assets/6f9fe609-ee3d-4971-a033-c5f89789ed6a" width="520" alt="GRE ETS certificate" />
+      </a>
+      <br><br>
+      <b>GRE ETS (2025)</b>
     </td>
   </tr>
 </table>
