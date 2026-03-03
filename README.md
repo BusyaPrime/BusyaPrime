@@ -34,38 +34,31 @@
 
 ## 💼 Опыт работы
 <p align="center">
-  <a href="https://skyweb.pro/">
-    <img src="https://img.shields.io/badge/Компания-Skyweb.pro-6A5ACD?style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Позиция-Backend%20%2B%20частично%20Frontend-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Срок-1%20год%206%20месяцев-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Компания-SkillFactory-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Роль-Backend%20Developer%20%2F%20Technical%20Mentor-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Формат-Удалённо-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Срок-1%20год%208%20месяцев-22C55E?style=for-the-badge" />
 </p>
 
-**[Skyweb.pro](https://skyweb.pro/)** — *Backend (частично Frontend) разработчик*  
-⏳ **1 год 6 месяцев**  
-👥 **Работал в команде** (совместная разработка, ревью, синхронизации, постановка задач)
+**SkillFactory** — *Backend Developer / Technical Mentor (удалённо)*  
+⏳ **1 год 8 месяцев (без стажировки)**
 
-- 🧩 Разработка и поддержка **backend-сервисов** и **REST API**
-- 🗄️ Интеграции, бизнес-логика, работа с БД и оптимизация запросов
-- 🐳 Окружения и контейнеризация (**Docker**) при необходимости
-- 🌐 Частично **frontend-задачи**: правки интерфейса, интеграция API, фиксы багов
-- ✅ Рефакторинг, стабилизация и поддержка качества кода
+- 🧩 **Backend-сервисы:** REST/JSON API, бизнес-логика, контракты, обработка ошибок, версионирование, стабильные релизы
+- 🔌 **Интеграции:** внешние API/вебхуки, таймауты, ретраи, backoff, идемпотентность, circuit-breaker подход
 
-<!-- REAL STACKS: BEAUTIFUL FRAMED BLOCK (FIXED) -->
-<div align="center" style="border: 2px solid #2f81f7; border-radius: 16px; padding: 16px; margin-top: 14px;">
+- 🐍 **Python / Backend:** Python 3.x, typing/generics, dataclasses, contextlib, decorators, structured logging
+- ⚡ **FastAPI:** routers, dependency injection, middleware, OpenAPI, exception handling, auth/permissions
+- ✅ **Pydantic:** строгая валидация, DTO/Schema, Settings, сериализация, контрактный подход к API
+- ⏱️ **Async:** asyncio, конкурентные запросы, connection pooling, rate-limit, отмена задач, timeouts
+- 🗄️ **DB:** PostgreSQL/MySQL, схемы/миграции, индексы, EXPLAIN/ANALYZE, транзакции, блокировки, дедлоки
+- 🧱 **ORM:** SQLAlchemy ORM/Core, sessions, Unit of Work, eager/lazy loading, Alembic ревизии
 
-### 🧩 Реальные стеки (кейс-опыт)
+- 🚀 **Cache / Queue:** Redis (cache, TTL, sessions, rate-limit), Celery/RQ, ретраи, DLQ, гарантии доставки
+- 🧪 **Quality:** pytest (unit/integration), контрактные проверки, code review, рефакторинг, читаемый PR-flow
+- 🐳 **DevOps/Prod:** Docker/Compose, GitHub Actions CI, конфиги/окружения, triage, RCA, прод-инциденты
 
-<div align="left">
-
-- **[Росатом](https://rosatom.ru/index.html)** — многопрофильный холдинг, объединяющий активы в энергетике, машиностроении, строительстве  
-- **[СИБУР](https://sibur.ru/ru/)** — одна из наиболее динамично развивающихся компаний в глобальной нефтехимии, российский лидер по производству полимеров и каучуков  
-
-</div>
-
-<i>Опыт: взаимодействие с задачами/проектами под корпоративные процессы, работа с требованиями, интеграциями и поддержкой стабильности решений в командной разработке.</i>
-
-</div>
+- ☕ **Java:** Spring Boot, REST controllers, validation, exception mapping, интеграции, фоновые задачи
+- 🎓 **Mentor/Support:** дебаг, ревью, архитектура капстонов, помощь в доведении до защиты без “решения за студента”
 
 ---
 
@@ -183,7 +176,7 @@
 ## 📊 GitHub статистика
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=BusyaPrime&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusyaPrime&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusyaPrime&layout=compact&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
