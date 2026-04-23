@@ -42,7 +42,9 @@ jobs:
           plugin_lines_history_limit: 1
 
           config_order: base.header, isocalendar, languages, topics, followup, lines
-          config_display: large
           extras_css: |
-            .field.followers, .field.following, .information .row.created-at { display: none !important; }
-            .information .row.fullname + .row { display: none !important; }
+            .row.created-at,
+            .field.followers,
+            .field.following,
+            .row .field.followers,
+            .row .field.following { display: none !important; }
