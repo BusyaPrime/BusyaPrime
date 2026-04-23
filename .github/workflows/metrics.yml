@@ -14,8 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: BusyaPrime
           template: classic
-          base: header, activity, community, repositories, metadata
-          base_indepth: yes
+          base: ""
           config_timezone: Asia/Tashkent
           repositories_skipped: BusyaPrime/BusyaPrime
 
@@ -41,10 +40,4 @@ jobs:
           plugin_lines: yes
           plugin_lines_history_limit: 1
 
-          config_order: base.header, isocalendar, languages, topics, followup, lines
-          extras_css: |
-            .row.created-at,
-            .field.followers,
-            .field.following,
-            .row .field.followers,
-            .row .field.following { display: none !important; }
+          config_order: isocalendar, languages, topics, followup, lines
