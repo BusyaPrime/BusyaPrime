@@ -2014,14 +2014,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.92689914987716" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="196.92689914987716" y="0" width="146.6754663134294" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="343.60236546330657" y="0" width="59.27925097494353" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="402.8816164382501" y="0" width="21.08347342103494" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="423.965089859285" y="0" width="15.944741722233452" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="439.90983158151846" y="0" width="10.729809509273242" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="450.6396410907917" y="0" width="5.629555832139718" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="456.2691969229314" y="0" width="3.7308030770685514" height="8" fill="#3A4E3A"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.58169800305546" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="196.58169800305546" y="0" width="146.9325589851964" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="343.5142569882519" y="0" width="59.467484580669755" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="402.9817415689216" y="0" width="21.04651534554934" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="424.02825691447094" y="0" width="15.916791537916064" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="439.94504845238697" y="0" width="10.71100079109523" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="450.65604924348224" y="0" width="5.619687555445469" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="456.27573679892765" y="0" width="3.724263201072282" height="8" fill="#3A4E3A"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2034,7 +2034,7 @@
                             </div>
                             <small>
                                 <div>3.65 MB</div>
-                                <div>42.81%</div>
+                                <div>42.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2046,7 +2046,7 @@
                             </div>
                             <small>
                                 <div>1.10 MB</div>
-                                <div>12.89%</div>
+                                <div>12.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2058,7 +2058,7 @@
                             </div>
                             <small>
                                 <div>295 kB</div>
-                                <div>3.47%</div>
+                                <div>3.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2083,8 +2083,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>2.72 MB</div>
-                                <div>31.89%</div>
+                                <div>2.73 MB</div>
+                                <div>31.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
